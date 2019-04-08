@@ -1,7 +1,5 @@
 # The-Coding-Train-p5.js
 
-Bascis of coordinates, systems, shapes, and drawing in p5.js.
+p5.js tutorials - JavaScript, HTML, and CSS
 
-https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3
-
-
+https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=14
