@@ -1,6 +1,4 @@
-/*var r = 0;
-var g = 0;
-var b = 255;*/
+
 
 var col = 0;
 
@@ -9,7 +7,8 @@ function setup() {
 }
 
 function draw() {
-  background(mouseX/2);
+  col = map(mouseX, 0, 600, 0, 255);
+  background(col);
   fill(250,118, 222)
   ellipse (mouseX, 200, 64, 64);
 }
